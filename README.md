@@ -33,7 +33,7 @@ Full Stack AI Developer focused on creating innovative digital experiences, expl
 ## 💻 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Redux Toolkit, TanStack Query, Zustand, shadcn/ui, Material UI
-- 
+  
 - **Backend:** Python, Django, Django REST Framework (DRF), Celery, Django Channels, RESTful APIs, WebSockets, JWT Authentication, Webhooks
 
 - **AI & LLM Engineering:** Generative AI, LLMs, RAG, AI Agents, OpenAI API, Anthropic Claude API, Google Gemini API, Function Calling
