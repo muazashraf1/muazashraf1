@@ -1,8 +1,9 @@
 # Hi there, I'm Muaz Ashraf! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Full+Stack+Developer;Always+Learning)](https://git.io/typing-svg)
 
-Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=550&lines=Full+Stack+AI+Developer;Generative+AI+%26+LLM+Enthusiast;Building+Intelligent+Applications;Always+Learning+%26+Innovating)](https://git.io/typing-svg)
+
+Full Stack AI Developer passionate about building scalable web applications, integrating LLMs, and developing intelligent AI-powered solutions using modern technologies.
 
 ---
 
